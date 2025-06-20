@@ -1,0 +1,2882 @@
+pyqt5 backend - Qt version 5.15.2
+This is index 0
+<class 'TopoDS_Solid'>
+1953.5253102645142
+Is complex? False
+Done in 0.031466007232666016 seconds
+This is index 1
+<class 'TopoDS_Solid'>
+1152.1361039328065
+Is complex? False
+Done in 0.008891820907592773 seconds
+This is index 2
+<class 'TopoDS_Solid'>
+1975.087042068704
+Is complex? False
+Done in 0.00156402587890625 seconds
+This is index 3
+<class 'TopoDS_Solid'>
+1362.5829758638802
+Is complex? False
+Done in 0.007236957550048828 seconds
+This is index 4
+<class 'TopoDS_Solid'>
+1901.0672914444303
+Is complex? False
+Done in 0.008095026016235352 seconds
+This is index 5
+<class 'TopoDS_Solid'>
+1458.3830108300592
+Is complex? False
+Done in 0.006496906280517578 seconds
+This is index 6
+<class 'TopoDS_Solid'>
+1413.7809566053718
+Is complex? False
+Done in 0.00746917724609375 seconds
+This is index 7
+<class 'TopoDS_Solid'>
+1282.487091952405
+Is complex? False
+Done in 0.004823207855224609 seconds
+This is index 8
+<class 'TopoDS_Solid'>
+1280.6401954176258
+Is complex? False
+Done in 0.05847597122192383 seconds
+This is index 9
+<class 'TopoDS_Solid'>
+1330.066889010778
+Is complex? False
+Done in 0.004565000534057617 seconds
+This is index 10
+<class 'TopoDS_Solid'>
+2201.447458062624
+Is complex? False
+Done in 0.0022041797637939453 seconds
+This is index 11
+<class 'TopoDS_Solid'>
+2260.7548723494733
+Is complex? False
+Done in 0.0019161701202392578 seconds
+This is index 12
+<class 'TopoDS_Solid'>
+1981.4231232261025
+Is complex? False
+Done in 0.0015952587127685547 seconds
+This is index 13
+<class 'TopoDS_Solid'>
+1943.4933407540193
+Is complex? False
+Done in 0.005934000015258789 seconds
+This is index 14
+<class 'TopoDS_Solid'>
+2251.480927110389
+Is complex? False
+Done in 0.006705045700073242 seconds
+This is index 15
+<class 'TopoDS_Solid'>
+2008.5500468601786
+Is complex? False
+Done in 0.006592988967895508 seconds
+This is index 16
+<class 'TopoDS_Solid'>
+1998.8737716304674
+Is complex? False
+Done in 0.003942728042602539 seconds
+This is index 17
+<class 'TopoDS_Solid'>
+2029.1656462170426
+Is complex? False
+Done in 0.00712275505065918 seconds
+This is index 18
+<class 'TopoDS_Solid'>
+2019.7568042557655
+Is complex? False
+Done in 0.003914833068847656 seconds
+This is index 19
+<class 'TopoDS_Solid'>
+2081.3947865360824
+Is complex? False
+Done in 0.0064640045166015625 seconds
+This is index 20
+<class 'TopoDS_Solid'>
+2072.170639064022
+Is complex? False
+Done in 0.003882884979248047 seconds
+This is index 21
+<class 'TopoDS_Solid'>
+2101.3028919717876
+Is complex? False
+Done in 0.007035255432128906 seconds
+This is index 22
+<class 'TopoDS_Solid'>
+2092.208846542936
+Is complex? False
+Done in 0.0040760040283203125 seconds
+This is index 23
+<class 'TopoDS_Solid'>
+2342.0966489600214
+Is complex? False
+Done in 0.006590127944946289 seconds
+This is index 24
+<class 'TopoDS_Solid'>
+2333.912630875687
+Is complex? False
+Done in 0.003998994827270508 seconds
+This is index 25
+<class 'TopoDS_Solid'>
+2397.170208849894
+Is complex? False
+Done in 0.007405996322631836 seconds
+This is index 26
+<class 'TopoDS_Solid'>
+2389.1685813795348
+Is complex? False
+Done in 0.0040988922119140625 seconds
+This is index 27
+<class 'TopoDS_Solid'>
+2404.9440879272192
+Is complex? False
+Done in 0.006724119186401367 seconds
+This is index 28
+<class 'TopoDS_Solid'>
+2396.967531520864
+Is complex? False
+Done in 0.004125118255615234 seconds
+This is index 29
+<class 'TopoDS_Solid'>
+2458.621508791328
+Is complex? False
+Done in 0.007021665573120117 seconds
+This is index 30
+<class 'TopoDS_Solid'>
+2450.813728883324
+Is complex? False
+Done in 0.004117012023925781 seconds
+This is index 31
+<class 'TopoDS_Solid'>
+1334.6865535574632
+Is complex? False
+Done in 0.018133163452148438 seconds
+This is index 32
+<class 'TopoDS_Solid'>
+1342.0904805714422
+Is complex? False
+Done in 0.024864912033081055 seconds
+This is index 33
+<class 'TopoDS_Solid'>
+1379.8704715494705
+Is complex? False
+Done in 0.0031790733337402344 seconds
+This is index 34
+<class 'TopoDS_Solid'>
+1445.8585062387035
+Is complex? False
+Done in 0.0030069351196289062 seconds
+This is index 35
+<class 'TopoDS_Solid'>
+1422.47207302152
+Is complex? False
+Done in 0.02417588233947754 seconds
+This is index 36
+<class 'TopoDS_Solid'>
+1515.8893059794686
+Is complex? False
+Done in 0.003332853317260742 seconds
+This is index 37
+<class 'TopoDS_Solid'>
+1452.2638217421222
+Is complex? False
+Done in 0.003316164016723633 seconds
+This is index 38
+<class 'TopoDS_Solid'>
+1384.707153688539
+Is complex? False
+Done in 0.01839900016784668 seconds
+This is index 39
+<class 'TopoDS_Solid'>
+1394.2243128475106
+Is complex? False
+Done in 0.0031418800354003906 seconds
+This is index 40
+<class 'TopoDS_Solid'>
+1461.1741851536167
+Is complex? False
+Done in 0.002805948257446289 seconds
+This is index 41
+<class 'TopoDS_Solid'>
+1488.0817994610145
+Is complex? False
+Done in 0.0029859542846679688 seconds
+This is index 42
+<class 'TopoDS_Solid'>
+1550.9874822371069
+Is complex? False
+Done in 0.003142118453979492 seconds
+This is index 43
+<class 'TopoDS_Solid'>
+1372.8301678901205
+Is complex? False
+Done in 0.003052234649658203 seconds
+This is index 44
+<class 'TopoDS_Solid'>
+1370.533446736055
+Is complex? False
+Done in 0.0028259754180908203 seconds
+This is index 45
+<class 'TopoDS_Solid'>
+1368.2402359510563
+Is complex? False
+Done in 0.002952098846435547 seconds
+This is index 46
+<class 'TopoDS_Solid'>
+1365.9505532052995
+Is complex? False
+Done in 0.0029180049896240234 seconds
+This is index 47
+<class 'TopoDS_Solid'>
+1375.1303818341046
+Is complex? False
+Done in 0.0031762123107910156 seconds
+This is index 48
+<class 'TopoDS_Solid'>
+1377.4340710795723
+Is complex? False
+Done in 0.002959012985229492 seconds
+This is index 49
+<class 'TopoDS_Solid'>
+1379.741218228489
+Is complex? False
+Done in 0.003131866455078125 seconds
+This is index 50
+<class 'TopoDS_Solid'>
+1382.0518059729002
+Is complex? False
+Done in 0.003351926803588867 seconds
+This is index 51
+<class 'TopoDS_Solid'>
+1489.325516218852
+Is complex? False
+Done in 0.003239870071411133 seconds
+This is index 52
+<class 'TopoDS_Solid'>
+1491.7771485456296
+Is complex? False
+Done in 0.002930879592895508 seconds
+This is index 53
+<class 'TopoDS_Solid'>
+1494.2315033776429
+Is complex? False
+Done in 0.0031223297119140625 seconds
+This is index 54
+<class 'TopoDS_Solid'>
+1496.688567328151
+Is complex? False
+Done in 0.0029909610748291016 seconds
+This is index 55
+<class 'TopoDS_Solid'>
+1486.8766198573976
+Is complex? False
+Done in 0.003042936325073242 seconds
+This is index 56
+<class 'TopoDS_Solid'>
+1484.430472995059
+Is complex? False
+Done in 0.003195047378540039 seconds
+This is index 57
+<class 'TopoDS_Solid'>
+1481.9870892396912
+Is complex? False
+Done in 0.003281831741333008 seconds
+This is index 58
+<class 'TopoDS_Solid'>
+1479.5464822735732
+Is complex? False
+Done in 0.003056764602661133 seconds
+This is index 59
+<class 'TopoDS_Solid'>
+1509.0140604114858
+Is complex? False
+Done in 0.002724885940551758 seconds
+This is index 60
+<class 'TopoDS_Solid'>
+1511.4871020138414
+Is complex? False
+Done in 0.002877950668334961 seconds
+This is index 61
+<class 'TopoDS_Solid'>
+1513.962761051233
+Is complex? False
+Done in 0.0030171871185302734 seconds
+This is index 62
+<class 'TopoDS_Solid'>
+1516.4410247108524
+Is complex? False
+Done in 0.003056764602661133 seconds
+This is index 63
+<class 'TopoDS_Solid'>
+1506.5436491274695
+Is complex? False
+Done in 0.0031669139862060547 seconds
+This is index 64
+<class 'TopoDS_Solid'>
+1504.0758811159487
+Is complex? False
+Done in 0.0031731128692626953 seconds
+This is index 65
+<class 'TopoDS_Solid'>
+1501.610769402285
+Is complex? False
+Done in 0.003180980682373047 seconds
+This is index 66
+<class 'TopoDS_Solid'>
+1499.1483270834055
+Is complex? False
+Done in 0.002882719039916992 seconds
+This is index 67
+<class 'TopoDS_Solid'>
+1355.063829136785
+Is complex? False
+Done in 0.003198862075805664 seconds
+This is index 68
+<class 'TopoDS_Solid'>
+1352.794875456115
+Is complex? False
+Done in 0.0027048587799072266 seconds
+This is index 69
+<class 'TopoDS_Solid'>
+1350.529571972752
+Is complex? False
+Done in 0.002796173095703125 seconds
+This is index 70
+<class 'TopoDS_Solid'>
+1348.2679370750313
+Is complex? False
+Done in 0.0028579235076904297 seconds
+This is index 71
+<class 'TopoDS_Solid'>
+1357.3364147197806
+Is complex? False
+Done in 0.002975940704345703 seconds
+This is index 72
+<class 'TopoDS_Solid'>
+1359.6126140031831
+Is complex? False
+Done in 0.003409147262573242 seconds
+This is index 73
+<class 'TopoDS_Solid'>
+1361.8924088778488
+Is complex? False
+Done in 0.002962350845336914 seconds
+This is index 74
+<class 'TopoDS_Solid'>
+1364.1757813271083
+Is complex? False
+Done in 0.002871990203857422 seconds
+This is index 75
+<class 'TopoDS_Solid'>
+1328.8888161551447
+Is complex? False
+Done in 0.08596301078796387 seconds
+This is index 76
+<class 'TopoDS_Solid'>
+1542.6356288665113
+Is complex? False
+Done in 0.0804438591003418 seconds
+This is index 77
+<class 'TopoDS_Solid'>
+1460.2028220304107
+Is complex? False
+Done in 0.01570415496826172 seconds
+This is index 78
+<class 'TopoDS_Solid'>
+1524.0380815055946
+Is complex? False
+Done in 0.01477193832397461 seconds
+This is index 79
+<class 'TopoDS_Solid'>
+1494.8291975808927
+Is complex? False
+Done in 0.015315055847167969 seconds
+This is index 80
+<class 'TopoDS_Solid'>
+1428.1952595362836
+Is complex? False
+Done in 0.015629053115844727 seconds
+This is index 81
+<class 'TopoDS_Solid'>
+1331.490406228926
+Is complex? False
+Done in 0.011990070343017578 seconds
+This is index 82
+<class 'TopoDS_Solid'>
+1555.0851185928477
+Is complex? False
+Done in 0.011384010314941406 seconds
+This is index 83
+<class 'TopoDS_Solid'>
+1214.2895924338434
+Is complex? False
+Done in 0.08148026466369629 seconds
+This is index 84
+<class 'TopoDS_Solid'>
+1200.3769117479237
+Is complex? False
+Done in 0.01024007797241211 seconds
+This is index 85
+<class 'TopoDS_Solid'>
+1204.1780663192287
+Is complex? False
+Done in 0.01089930534362793 seconds
+This is index 86
+<class 'TopoDS_Solid'>
+1300.0311927228922
+Is complex? False
+Done in 0.010869026184082031 seconds
+This is index 87
+<class 'TopoDS_Solid'>
+1291.9993304945367
+Is complex? False
+Done in 0.01062917709350586 seconds
+This is index 88
+<class 'TopoDS_Solid'>
+1341.6163796143987
+Is complex? False
+Done in 0.0050830841064453125 seconds
+This is index 89
+<class 'TopoDS_Solid'>
+1210.06593078948
+Is complex? False
+Done in 0.005004167556762695 seconds
+This is index 90
+<class 'TopoDS_Solid'>
+1198.5726799857757
+Is complex? False
+Done in 0.0054569244384765625 seconds
+This is index 91
+<class 'TopoDS_Solid'>
+1331.259337019095
+Is complex? False
+Done in 0.005198240280151367 seconds
+This is index 92
+<class 'TopoDS_Solid'>
+1423.6991797904939
+Is complex? False
+Done in 0.00495600700378418 seconds
+This is index 93
+<class 'TopoDS_Solid'>
+1300.4785278288482
+Is complex? False
+Done in 0.005232095718383789 seconds
+This is index 94
+<class 'TopoDS_Solid'>
+1289.7911899585772
+Is complex? False
+Done in 0.005360126495361328 seconds
+This is index 95
+<class 'TopoDS_Solid'>
+1413.943516158619
+Is complex? False
+Done in 0.0053980350494384766 seconds
+This is index 96
+<class 'TopoDS_Solid'>
+1202.6550470491018
+Is complex? False
+Done in 0.06791400909423828 seconds
+This is index 97
+<class 'TopoDS_Solid'>
+1193.2019212067823
+Is complex? True
+Done in 1.7724637985229492 seconds
+This is index 98
+<class 'TopoDS_Solid'>
+1194.4098605780252
+Is complex? False
+Done in 0.0854341983795166 seconds
+This is index 99
+<class 'TopoDS_Solid'>
+1273.1681418464457
+Is complex? False
+Done in 0.07529306411743164 seconds
+This is index 100
+<class 'TopoDS_Solid'>
+1570.9018416232552
+Is complex? False
+Done in 0.02147507667541504 seconds
+This is index 101
+<class 'TopoDS_Solid'>
+1529.986872265847
+Is complex? False
+Done in 0.011314868927001953 seconds
+This is index 102
+<class 'TopoDS_Solid'>
+1492.0055137382858
+Is complex? False
+Done in 0.4667940139770508 seconds
+This is index 103
+<class 'TopoDS_Solid'>
+1525.7156200866377
+Is complex? False
+Done in 0.001995086669921875 seconds
+This is index 104
+<class 'TopoDS_Solid'>
+1508.5423627113607
+Is complex? False
+Done in 0.0017442703247070312 seconds
+This is index 105
+<class 'TopoDS_Solid'>
+1517.9030597381636
+Is complex? False
+Done in 0.0016391277313232422 seconds
+This is index 106
+<class 'TopoDS_Solid'>
+1492.3988577524478
+Is complex? False
+Done in 0.0017740726470947266 seconds
+This is index 107
+<class 'TopoDS_Solid'>
+1501.2517194743525
+Is complex? False
+Done in 0.0018739700317382812 seconds
+This is index 108
+<class 'TopoDS_Solid'>
+1477.3186214880448
+Is complex? False
+Done in 0.0019121170043945312 seconds
+This is index 109
+<class 'TopoDS_Solid'>
+1485.6463385080567
+Is complex? False
+Done in 0.0016968250274658203 seconds
+This is index 110
+<class 'TopoDS_Solid'>
+1463.3342833779764
+Is complex? False
+Done in 0.0017070770263671875 seconds
+This is index 111
+<class 'TopoDS_Solid'>
+1471.1198472487945
+Is complex? False
+Done in 0.001753091812133789 seconds
+This is index 112
+<class 'TopoDS_Solid'>
+1450.4772997093105
+Is complex? False
+Done in 0.0017881393432617188 seconds
+This is index 113
+<class 'TopoDS_Solid'>
+1457.7041330910815
+Is complex? False
+Done in 0.0019030570983886719 seconds
+This is index 114
+<class 'TopoDS_Solid'>
+1438.777656468356
+Is complex? False
+Done in 0.0017538070678710938 seconds
+This is index 115
+<class 'TopoDS_Solid'>
+1445.4297506582827
+Is complex? False
+Done in 0.0015637874603271484 seconds
+This is index 116
+<class 'TopoDS_Solid'>
+1428.2635665287794
+Is complex? False
+Done in 0.0015320777893066406 seconds
+This is index 117
+<class 'TopoDS_Solid'>
+1434.3256248148318
+Is complex? False
+Done in 0.0017631053924560547 seconds
+This is index 118
+<class 'TopoDS_Solid'>
+1418.961167044123
+Is complex? False
+Done in 0.0018072128295898438 seconds
+This is index 119
+<class 'TopoDS_Solid'>
+1424.4187520022647
+Is complex? False
+Done in 0.001600027084350586 seconds
+This is index 120
+<class 'TopoDS_Solid'>
+1410.8942235866336
+Is complex? False
+Done in 0.0015909671783447266 seconds
+This is index 121
+<class 'TopoDS_Solid'>
+1415.7339060998786
+Is complex? False
+Done in 0.0018548965454101562 seconds
+This is index 122
+<class 'TopoDS_Solid'>
+1404.0838480244574
+Is complex? False
+Done in 0.0017671585083007812 seconds
+This is index 123
+<class 'TopoDS_Solid'>
+1408.2933554567153
+Is complex? False
+Done in 0.001631021499633789 seconds
+This is index 124
+<class 'TopoDS_Solid'>
+1398.5482373234638
+Is complex? False
+Done in 0.0019299983978271484 seconds
+This is index 125
+<class 'TopoDS_Solid'>
+1402.116597940858
+Is complex? False
+Done in 0.002008199691772461 seconds
+This is index 126
+<class 'TopoDS_Solid'>
+1394.3024403570726
+Is complex? False
+Done in 0.0016400814056396484 seconds
+This is index 127
+<class 'TopoDS_Solid'>
+1397.2201207723926
+Is complex? False
+Done in 0.001977205276489258 seconds
+This is index 128
+<class 'TopoDS_Solid'>
+1391.3581593830268
+Is complex? False
+Done in 0.0016629695892333984 seconds
+This is index 129
+<class 'TopoDS_Solid'>
+1393.6171915355108
+Is complex? False
+Done in 0.001773834228515625 seconds
+This is index 130
+<class 'TopoDS_Solid'>
+1389.7235920967514
+Is complex? False
+Done in 0.0017039775848388672 seconds
+This is index 131
+<class 'TopoDS_Solid'>
+1391.3176861119473
+Is complex? False
+Done in 0.0021958351135253906 seconds
+This is index 132
+<class 'TopoDS_Solid'>
+1535.5666636323385
+Is complex? False
+Done in 0.013229131698608398 seconds
+This is index 133
+<class 'TopoDS_Solid'>
+1386.9774388004942
+Is complex? False
+Done in 0.0030736923217773438 seconds
+This is index 134
+<class 'TopoDS_Solid'>
+1318.2901962562946
+Is complex? False
+Done in 0.0015170574188232422 seconds
+This is index 135
+<class 'TopoDS_Solid'>
+1327.8197948516488
+Is complex? False
+Done in 0.0014371871948242188 seconds
+This is index 136
+<class 'TopoDS_Solid'>
+1296.7447058758935
+Is complex? False
+Done in 0.0014100074768066406 seconds
+This is index 137
+<class 'TopoDS_Solid'>
+1307.8729209620508
+Is complex? False
+Done in 0.001508951187133789 seconds
+This is index 138
+<class 'TopoDS_Solid'>
+1277.852835447528
+Is complex? False
+Done in 0.001817941665649414 seconds
+This is index 139
+<class 'TopoDS_Solid'>
+1288.1452876857752
+Is complex? False
+Done in 0.001619100570678711 seconds
+This is index 140
+<class 'TopoDS_Solid'>
+1274.5114737449103
+Is complex? False
+Done in 0.0015201568603515625 seconds
+This is index 141
+<class 'TopoDS_Solid'>
+1272.2730584960434
+Is complex? False
+Done in 0.0015900135040283203 seconds
+This is index 142
+<class 'TopoDS_Solid'>
+1285.5363233096457
+Is complex? False
+Done in 0.0016300678253173828 seconds
+This is index 143
+<class 'TopoDS_Solid'>
+1278.9193640131587
+Is complex? False
+Done in 0.0016529560089111328 seconds
+This is index 144
+<class 'TopoDS_Solid'>
+1300.6636342415477
+Is complex? False
+Done in 0.00167083740234375 seconds
+This is index 145
+<class 'TopoDS_Solid'>
+1293.6308532185487
+Is complex? False
+Done in 0.0019080638885498047 seconds
+This is index 146
+<class 'TopoDS_Solid'>
+1292.1267058077133
+Is complex? False
+Done in 0.0015323162078857422 seconds
+This is index 147
+<class 'TopoDS_Solid'>
+1307.0640967509325
+Is complex? False
+Done in 0.0014352798461914062 seconds
+This is index 148
+<class 'TopoDS_Solid'>
+1263.2255171479794
+Is complex? False
+Done in 0.0013828277587890625 seconds
+This is index 149
+<class 'TopoDS_Solid'>
+1276.4310407343323
+Is complex? False
+Done in 0.0015919208526611328 seconds
+This is index 150
+<class 'TopoDS_Solid'>
+1272.6100630675046
+Is complex? False
+Done in 0.0017459392547607422 seconds
+This is index 151
+<class 'TopoDS_Solid'>
+1264.2118680169956
+Is complex? False
+Done in 0.0014951229095458984 seconds
+This is index 152
+<class 'TopoDS_Solid'>
+1284.91608524557
+Is complex? False
+Done in 0.0014209747314453125 seconds
+This is index 153
+<class 'TopoDS_Solid'>
+1277.7766351177052
+Is complex? False
+Done in 0.001461029052734375 seconds
+This is index 154
+<class 'TopoDS_Solid'>
+1274.9932682684262
+Is complex? False
+Done in 0.0017769336700439453 seconds
+This is index 155
+<class 'TopoDS_Solid'>
+1263.1149237165025
+Is complex? False
+Done in 0.0015721321105957031 seconds
+This is index 156
+<class 'TopoDS_Solid'>
+1269.7555715761328
+Is complex? False
+Done in 0.0014650821685791016 seconds
+This is index 157
+<class 'TopoDS_Solid'>
+1269.7908211970898
+Is complex? False
+Done in 0.0015571117401123047 seconds
+This is index 158
+<class 'TopoDS_Solid'>
+1261.5940493744456
+Is complex? False
+Done in 0.0016367435455322266 seconds
+This is index 159
+<class 'TopoDS_Solid'>
+1288.3335705365853
+Is complex? False
+Done in 0.001645803451538086 seconds
+This is index 160
+<class 'TopoDS_Solid'>
+1282.2561049454596
+Is complex? False
+Done in 0.0017440319061279297 seconds
+This is index 161
+<class 'TopoDS_Solid'>
+1309.2823386470536
+Is complex? False
+Done in 0.0018322467803955078 seconds
+This is index 162
+<class 'TopoDS_Solid'>
+1297.1439454550368
+Is complex? False
+Done in 0.0015878677368164062 seconds
+This is index 163
+<class 'TopoDS_Solid'>
+1283.1017163606505
+Is complex? False
+Done in 0.0014247894287109375 seconds
+This is index 164
+<class 'TopoDS_Solid'>
+1334.0416628441826
+Is complex? False
+Done in 0.00830388069152832 seconds
+This is index 165
+<class 'TopoDS_Solid'>
+1346.6243502780314
+Is complex? False
+Done in 0.005385160446166992 seconds
+This is index 166
+<class 'TopoDS_Solid'>
+1409.4675843743153
+Is complex? False
+Done in 0.0054018497467041016 seconds
+This is index 167
+<class 'TopoDS_Solid'>
+1269.761197360955
+Is complex? False
+Done in 0.004849910736083984 seconds
+This is index 168
+<class 'TopoDS_Solid'>
+1461.3613943836044
+Is complex? False
+Done in 0.004776954650878906 seconds
+This is index 169
+<class 'TopoDS_Solid'>
+1413.5130444662946
+Is complex? False
+Done in 0.0031480789184570312 seconds
+This is index 170
+<class 'TopoDS_Solid'>
+1549.728073267433
+Is complex? False
+Done in 0.0031900405883789062 seconds
+This is index 171
+<class 'TopoDS_Solid'>
+1404.8498958306866
+Is complex? False
+Done in 0.003144979476928711 seconds
+This is index 172
+<class 'TopoDS_Solid'>
+1542.5949645509165
+Is complex? False
+Done in 0.0032629966735839844 seconds
+This is index 173
+<class 'TopoDS_Solid'>
+1314.122441848528
+Is complex? False
+Done in 0.013439178466796875 seconds
+This is index 174
+<class 'TopoDS_Solid'>
+1269.9282424198004
+Is complex? False
+Done in 0.013855934143066406 seconds
+This is index 175
+<class 'TopoDS_Solid'>
+1291.6569588311136
+Is complex? False
+Done in 0.12223219871520996 seconds
+This is index 176
+<class 'TopoDS_Solid'>
+1343.6680290166935
+Is complex? False
+Done in 0.00580596923828125 seconds
+This is index 177
+<class 'TopoDS_Solid'>
+1316.5930531335146
+Is complex? False
+Done in 0.0036399364471435547 seconds
+This is index 178
+<class 'TopoDS_Solid'>
+1294.362368448603
+Is complex? False
+Done in 0.003495931625366211 seconds
+This is index 179
+<class 'TopoDS_Solid'>
+1323.7489101628641
+Is complex? False
+Done in 0.003609895706176758 seconds
+This is index 180
+<class 'TopoDS_Solid'>
+1301.6404459196167
+Is complex? False
+Done in 0.0037431716918945312 seconds
+This is index 181
+<class 'TopoDS_Solid'>
+1291.3867144989872
+Is complex? False
+Done in 0.1237039566040039 seconds
+This is index 182
+<class 'TopoDS_Solid'>
+1361.7738255939653
+Is complex? False
+Done in 0.021708011627197266 seconds
+This is index 183
+<class 'TopoDS_Solid'>
+1333.853810645962
+Is complex? False
+Done in 0.02642679214477539 seconds
+This is index 184
+<class 'TopoDS_Solid'>
+1423.4246581530235
+Is complex? False
+Done in 0.002076864242553711 seconds
+This is index 185
+<class 'TopoDS_Solid'>
+1502.6603961276667
+Is complex? False
+Done in 0.005797863006591797 seconds
+This is index 186
+<class 'TopoDS_Solid'>
+1292.4995418611295
+Is complex? False
+Done in 0.0159759521484375 seconds
+This is index 187
+<class 'TopoDS_Solid'>
+1292.4995418611295
+Is complex? False
+Done in 0.0612027645111084 seconds
+This is index 188
+<class 'TopoDS_Solid'>
+1533.6270664769236
+Is complex? False
+Done in 0.0026199817657470703 seconds
+This is index 189
+<class 'TopoDS_Solid'>
+1509.8527787319335
+Is complex? False
+Done in 0.0020148754119873047 seconds
+This is index 190
+<class 'TopoDS_Solid'>
+2299.0423892377034
+Is complex? False
+Done in 0.101470947265625 seconds
+This is index 191
+<class 'TopoDS_Solid'>
+1993.759272790118
+Is complex? False
+Done in 0.007876157760620117 seconds
+This is index 192
+<class 'TopoDS_Solid'>
+1870.9419224946193
+Is complex? True
+Done in 0.0966949462890625 seconds
+This is index 193
+<class 'TopoDS_Solid'>
+1997.494479665996
+Is complex? False
+Done in 0.0050203800201416016 seconds
+This is index 194
+<class 'TopoDS_Solid'>
+2088.45676807029
+Is complex? False
+Done in 0.0054051876068115234 seconds
+This is index 195
+<class 'TopoDS_Solid'>
+2164.0105769200354
+Is complex? False
+Done in 0.005955696105957031 seconds
+This is index 196
+<class 'TopoDS_Solid'>
+2152.292269820647
+Is complex? False
+Done in 0.005786895751953125 seconds
+This is index 197
+<class 'TopoDS_Solid'>
+2064.1079331897336
+Is complex? False
+Done in 0.005188941955566406 seconds
+This is index 198
+<class 'TopoDS_Solid'>
+1984.8067653562264
+Is complex? False
+Done in 0.006165027618408203 seconds
+This is index 199
+<class 'TopoDS_Solid'>
+2075.428017634868
+Is complex? False
+Done in 0.016914844512939453 seconds
+This is index 200
+<class 'TopoDS_Solid'>
+2062.9593787827707
+Is complex? False
+Done in 0.021185874938964844 seconds
+This is index 201
+<class 'TopoDS_Solid'>
+2119.1169071023955
+Is complex? False
+Done in 0.005076169967651367 seconds
+This is index 202
+<class 'TopoDS_Solid'>
+2075.879050905427
+Is complex? False
+Done in 0.00584101676940918 seconds
+This is index 203
+<class 'TopoDS_Solid'>
+2114.109967658697
+Is complex? False
+Done in 0.016750812530517578 seconds
+This is index 204
+<class 'TopoDS_Solid'>
+2096.874468342044
+Is complex? False
+Done in 0.018655061721801758 seconds
+This is index 205
+<class 'TopoDS_Solid'>
+2213.2284537969904
+Is complex? False
+Done in 0.005906820297241211 seconds
+This is index 206
+<class 'TopoDS_Solid'>
+2115.902084454774
+Is complex? False
+Done in 0.005348920822143555 seconds
+This is index 207
+<class 'TopoDS_Solid'>
+2085.8271378288423
+Is complex? False
+Done in 0.01862502098083496 seconds
+This is index 208
+<class 'TopoDS_Solid'>
+2076.2105504333226
+Is complex? False
+Done in 0.020884037017822266 seconds
+This is index 209
+<class 'TopoDS_Solid'>
+2153.3838177819175
+Is complex? False
+Done in 0.005193948745727539 seconds
+This is index 210
+<class 'TopoDS_Solid'>
+2090.3399660150717
+Is complex? False
+Done in 0.005590677261352539 seconds
+This is index 211
+<class 'TopoDS_Solid'>
+1999.5242848336884
+Is complex? False
+Done in 0.01706981658935547 seconds
+This is index 212
+<class 'TopoDS_Solid'>
+1954.8167351895997
+Is complex? False
+Done in 0.021892786026000977 seconds
+This is index 213
+<class 'TopoDS_Solid'>
+1992.08464597542
+Is complex? False
+Done in 0.005744218826293945 seconds
+This is index 214
+<class 'TopoDS_Solid'>
+2023.4382070781373
+Is complex? False
+Done in 0.0061550140380859375 seconds
+This is index 215
+<class 'TopoDS_Solid'>
+1887.7440068382825
+Is complex? False
+Done in 0.016774892807006836 seconds
+This is index 216
+<class 'TopoDS_Solid'>
+1838.3338207248387
+Is complex? False
+Done in 0.02122807502746582 seconds
+This is index 217
+<class 'TopoDS_Solid'>
+1887.1286192203963
+Is complex? False
+Done in 0.005526065826416016 seconds
+This is index 218
+<class 'TopoDS_Solid'>
+1981.5731633053817
+Is complex? False
+Done in 0.005657672882080078 seconds
+This is index 219
+<class 'TopoDS_Solid'>
+1960.8636382082725
+Is complex? False
+Done in 0.01854705810546875 seconds
+This is index 220
+<class 'TopoDS_Solid'>
+1917.1735045693802
+Is complex? False
+Done in 0.02271294593811035 seconds
+This is index 221
+<class 'TopoDS_Solid'>
+1955.030359906396
+Is complex? False
+Done in 0.005395174026489258 seconds
+This is index 222
+<class 'TopoDS_Solid'>
+2008.5019466992908
+Is complex? False
+Done in 0.005772113800048828 seconds
+This is index 223
+<class 'TopoDS_Solid'>
+1812.0291054370039
+Is complex? False
+Done in 0.019443988800048828 seconds
+This is index 224
+<class 'TopoDS_Solid'>
+1820.0000878567819
+Is complex? False
+Done in 0.0014600753784179688 seconds
+This is index 225
+<class 'TopoDS_Solid'>
+1837.9725259096094
+Is complex? False
+Done in 0.0021059513092041016 seconds
+This is index 226
+<class 'TopoDS_Solid'>
+1814.4207361460424
+Is complex? False
+Done in 0.005585193634033203 seconds
+This is index 227
+<class 'TopoDS_Solid'>
+1817.417499407101
+Is complex? False
+Done in 0.004409074783325195 seconds
+This is index 228
+<class 'TopoDS_Solid'>
+1834.7120361317777
+Is complex? False
+Done in 0.002432107925415039 seconds
+This is index 229
+<class 'TopoDS_Solid'>
+1880.2862893596653
+Is complex? False
+Done in 0.0008361339569091797 seconds
+This is index 230
+<class 'TopoDS_Solid'>
+2403.0599512586673
+Is complex? False
+Done in 0.00580596923828125 seconds
+This is index 231
+<class 'TopoDS_Solid'>
+2210.000000000006
+Is complex? True
+Done in 0.0229799747467041 seconds
+This is index 232
+<class 'TopoDS_Solid'>
+3018.695283828556
+Is complex? False
+Done in 0.006719112396240234 seconds
+This is index 233
+<class 'TopoDS_Solid'>
+3083.5645386660185
+Is complex? False
+Done in 0.003968954086303711 seconds
+This is index 234
+<class 'TopoDS_Solid'>
+3256.906125647868
+Is complex? False
+Done in 0.003873109817504883 seconds
+This is index 235
+<class 'TopoDS_Solid'>
+3055.2341581754717
+Is complex? False
+Done in 0.004148006439208984 seconds
+This is index 236
+<class 'TopoDS_Solid'>
+3230.092540097316
+Is complex? False
+Done in 0.004230976104736328 seconds
+This is index 237
+<class 'TopoDS_Solid'>
+3027.422350431644
+Is complex? False
+Done in 0.004490852355957031 seconds
+This is index 238
+<class 'TopoDS_Solid'>
+3203.7950897482738
+Is complex? False
+Done in 0.003968954086303711 seconds
+This is index 239
+<class 'TopoDS_Solid'>
+2555.3695176723936
+Is complex? False
+Done in 482.18223309516907 seconds
+This is index 239
+<class 'TopoDS_Solid'>
+Is complex? False
+This is index 240
+<class 'TopoDS_Solid'>
+2650.6864025745713
+Is complex? False
+Done in 0.0011742115020751953 seconds
+This is index 241
+<class 'TopoDS_Solid'>
+2073.9805131247385
+Is complex? False
+Done in 0.007980108261108398 seconds
+This is index 242
+<class 'TopoDS_Solid'>
+2324.0810848087635
+Is complex? False
+Done in 0.023131847381591797 seconds
+This is index 243
+<class 'TopoDS_Solid'>
+2494.215705768798
+Is complex? False
+Done in 0.0070688724517822266 seconds
+This is index 244
+<class 'TopoDS_Solid'>
+2126.0369689065274
+Is complex? False
+Done in 0.02240777015686035 seconds
+This is index 245
+<class 'TopoDS_Solid'>
+2248.4863410795665
+Is complex? False
+Done in 0.006576061248779297 seconds
+This is index 246
+<class 'TopoDS_Solid'>
+2667.8864168901505
+Is complex? False
+Done in 0.011854887008666992 seconds
+This is index 247
+<class 'TopoDS_Solid'>
+2627.0689899984377
+Is complex? False
+Done in 0.015063047409057617 seconds
+This is index 248
+<class 'TopoDS_Solid'>
+2473.982477524871
+Is complex? False
+Done in 0.028278112411499023 seconds
+This is index 249
+<class 'TopoDS_Solid'>
+2743.897316976041
+Is complex? False
+Done in 0.01347494125366211 seconds
+This is index 250
+<class 'TopoDS_Solid'>
+2695.22754869553
+Is complex? False
+Done in 0.00831913948059082 seconds
+This is index 251
+<class 'TopoDS_Solid'>
+2059.829074149098
+Is complex? False
+Done in 0.011571884155273438 seconds
+This is index 252
+<class 'TopoDS_Solid'>
+3022.8523588453263
+Is complex? False
+Done in 0.011511087417602539 seconds
+This is index 253
+<class 'TopoDS_Solid'>
+3323.51905217618
+Is complex? False
+Done in 0.012354850769042969 seconds
+This is index 254
+<class 'TopoDS_Solid'>
+3167.6150314799274
+Is complex? False
+Done in 0.011940956115722656 seconds
+This is index 255
+<class 'TopoDS_Solid'>
+3139.28503805335
+Is complex? False
+Done in 0.012057065963745117 seconds
+This is index 256
+<class 'TopoDS_Solid'>
+2079.696035611271
+Is complex? False
+Done in 0.012373208999633789 seconds
+This is index 257
+<class 'TopoDS_Solid'>
+2010.0065191128735
+Is complex? False
+Done in 0.0067081451416015625 seconds
+This is index 258
+<class 'TopoDS_Solid'>
+1900.3252239616268
+Is complex? False
+Done in 0.00421905517578125 seconds
+This is index 259
+<class 'TopoDS_Solid'>
+1990.6953029461868
+Is complex? False
+Done in 0.004467964172363281 seconds
+This is index 260
+<class 'TopoDS_Solid'>
+2046.5418958805901
+Is complex? False
+Done in 0.005611896514892578 seconds
+This is index 261
+<class 'TopoDS_Solid'>
+2007.1405305684934
+Is complex? False
+Done in 0.005032777786254883 seconds
+This is index 262
+<class 'TopoDS_Solid'>
+1881.172028780811
+Is complex? False
+Done in 0.01804518699645996 seconds
+This is index 263
+<class 'TopoDS_Solid'>
+1851.5460287353874
+Is complex? False
+Done in 0.007536888122558594 seconds
+This is index 264
+<class 'TopoDS_Solid'>
+1893.6840901396235
+Is complex? False
+Done in 0.007443904876708984 seconds
+This is index 265
+<class 'TopoDS_Solid'>
+1853.619898503677
+Is complex? False
+Done in 0.007024049758911133 seconds
+This is index 266
+<class 'TopoDS_Solid'>
+1895.720922495802
+Is complex? False
+Done in 0.00797414779663086 seconds
+This is index 267
+<class 'TopoDS_Solid'>
+1857.0150895073382
+Is complex? False
+Done in 0.007150173187255859 seconds
+This is index 268
+<class 'TopoDS_Solid'>
+1899.054886713046
+Is complex? False
+Done in 0.0081939697265625 seconds
+This is index 269
+<class 'TopoDS_Solid'>
+1861.7262173523725
+Is complex? False
+Done in 0.007021903991699219 seconds
+This is index 270
+<class 'TopoDS_Solid'>
+1903.6800096060556
+Is complex? False
+Done in 0.006803989410400391 seconds
+This is index 271
+<class 'TopoDS_Solid'>
+1864.3575588381718
+Is complex? False
+Done in 0.007010698318481445 seconds
+This is index 272
+<class 'TopoDS_Solid'>
+1878.4127907574793
+Is complex? False
+Done in 0.007158994674682617 seconds
+This is index 273
+<class 'TopoDS_Solid'>
+1874.4844973384197
+Is complex? False
+Done in 0.008013010025024414 seconds
+This is index 274
+<class 'TopoDS_Solid'>
+1888.4779696991495
+Is complex? False
+Done in 0.006635904312133789 seconds
+This is index 275
+<class 'TopoDS_Solid'>
+1795.5666876795176
+Is complex? False
+Done in 0.0029039382934570312 seconds
+This is index 276
+<class 'TopoDS_Solid'>
+1890.523411057661
+Is complex? False
+Done in 0.06941008567810059 seconds
+This is index 277
+<class 'TopoDS_Solid'>
+1891.1149948731556
+Is complex? False
+Done in 0.21877765655517578 seconds
+This is index 278
+<class 'TopoDS_Solid'>
+1903.052576024631
+Is complex? False
+Done in 0.011265039443969727 seconds
+This is index 279
+<class 'TopoDS_Solid'>
+1873.0159511248773
+Is complex? False
+Done in 0.11693024635314941 seconds
+This is index 280
+<class 'TopoDS_Solid'>
+1871.9843650110445
+Is complex? False
+Done in 0.009422779083251953 seconds
+This is index 281
+<class 'TopoDS_Solid'>
+2586.4526476762017
+Is complex? False
+Done in 0.4602692127227783 seconds
+This is index 282
+<class 'TopoDS_Shell'>
+1953.5253102645142
+Is complex? False
+Done in 0.015692949295043945 seconds
+This is index 283
+<class 'TopoDS_Shell'>
+1152.1361039328065
+Is complex? False
+Done in 0.0036101341247558594 seconds
+This is index 284
+<class 'TopoDS_Shell'>
+1975.087042068704
+Is complex? False
+Done in 0.0007991790771484375 seconds
+This is index 285
+<class 'TopoDS_Shell'>
+1362.5829758638802
+Is complex? False
+Done in 0.004148960113525391 seconds
+This is index 286
+<class 'TopoDS_Shell'>
+1901.0672914444303
+Is complex? False
+Done in 0.0012750625610351562 seconds
+This is index 287
+<class 'TopoDS_Shell'>
+1458.3830108300592
+Is complex? False
+Done in 0.0012509822845458984 seconds
+This is index 288
+<class 'TopoDS_Shell'>
+1413.7809566053718
+Is complex? False
+Done in 0.0010590553283691406 seconds
+This is index 289
+<class 'TopoDS_Shell'>
+1282.487091952405
+Is complex? False
+Done in 0.0011658668518066406 seconds
+This is index 290
+<class 'TopoDS_Shell'>
+1280.6401954176258
+Is complex? False
+Done in 0.0011868476867675781 seconds
+This is index 291
+<class 'TopoDS_Shell'>
+1330.066889010778
+Is complex? False
+Done in 0.0014841556549072266 seconds
+This is index 292
+<class 'TopoDS_Shell'>
+2201.447458062624
+Is complex? False
+Done in 0.0011970996856689453 seconds
+This is index 293
+<class 'TopoDS_Shell'>
+2260.7548723494733
+Is complex? False
+Done in 0.0007619857788085938 seconds
+This is index 294
+<class 'TopoDS_Shell'>
+1981.4231232261025
+Is complex? False
+Done in 0.0006902217864990234 seconds
+This is index 295
+<class 'TopoDS_Shell'>
+1943.4933407540193
+Is complex? False
+Done in 0.0026841163635253906 seconds
+This is index 296
+<class 'TopoDS_Shell'>
+2251.480927110389
+Is complex? False
+Done in 0.002452850341796875 seconds
+This is index 297
+<class 'TopoDS_Shell'>
+2008.5500468601786
+Is complex? False
+Done in 0.003139972686767578 seconds
+This is index 298
+<class 'TopoDS_Shell'>
+1998.8737716304674
+Is complex? False
+Done in 0.0026819705963134766 seconds
+This is index 299
+<class 'TopoDS_Shell'>
+2029.1656462170426
+Is complex? False
+Done in 0.003565073013305664 seconds
+This is index 300
+<class 'TopoDS_Shell'>
+2019.7568042557655
+Is complex? False
+Done in 0.0029840469360351562 seconds
+This is index 301
+<class 'TopoDS_Shell'>
+2081.3947865360824
+Is complex? False
+Done in 0.0032949447631835938 seconds
+This is index 302
+<class 'TopoDS_Shell'>
+2072.170639064022
+Is complex? False
+Done in 0.0022687911987304688 seconds
+This is index 303
+<class 'TopoDS_Shell'>
+2101.3028919717876
+Is complex? False
+Done in 0.0033538341522216797 seconds
+This is index 304
+<class 'TopoDS_Shell'>
+2092.208846542936
+Is complex? False
+Done in 0.002354860305786133 seconds
+This is index 305
+<class 'TopoDS_Shell'>
+2342.0966489600214
+Is complex? False
+Done in 0.004065752029418945 seconds
+This is index 306
+<class 'TopoDS_Shell'>
+2333.912630875687
+Is complex? False
+Done in 0.002458810806274414 seconds
+This is index 307
+<class 'TopoDS_Shell'>
+2397.170208849894
+Is complex? False
+Done in 0.0030601024627685547 seconds
+This is index 308
+<class 'TopoDS_Shell'>
+2389.1685813795348
+Is complex? False
+Done in 0.0023050308227539062 seconds
+This is index 309
+<class 'TopoDS_Shell'>
+2404.9440879272192
+Is complex? False
+Done in 0.0034058094024658203 seconds
+This is index 310
+<class 'TopoDS_Shell'>
+2396.967531520864
+Is complex? False
+Done in 0.003008127212524414 seconds
+This is index 311
+<class 'TopoDS_Shell'>
+2458.621508791328
+Is complex? False
+Done in 0.004100799560546875 seconds
+This is index 312
+<class 'TopoDS_Shell'>
+2450.813728883324
+Is complex? False
+Done in 0.002526998519897461 seconds
+This is index 313
+<class 'TopoDS_Shell'>
+1334.6865535574632
+Is complex? False
+Done in 0.0107879638671875 seconds
+This is index 314
+<class 'TopoDS_Shell'>
+1342.0904805714422
+Is complex? False
+Done in 0.01283407211303711 seconds
+This is index 315
+<class 'TopoDS_Shell'>
+1379.8704715494705
+Is complex? False
+Done in 0.0015411376953125 seconds
+This is index 316
+<class 'TopoDS_Shell'>
+1445.8585062387035
+Is complex? False
+Done in 0.0019788742065429688 seconds
+This is index 317
+<class 'TopoDS_Shell'>
+1422.47207302152
+Is complex? False
+Done in 0.013052940368652344 seconds
+This is index 318
+<class 'TopoDS_Shell'>
+1515.8893059794686
+Is complex? False
+Done in 0.0017511844635009766 seconds
+This is index 319
+<class 'TopoDS_Shell'>
+1452.2638217421222
+Is complex? False
+Done in 0.0018277168273925781 seconds
+This is index 320
+<class 'TopoDS_Shell'>
+1384.707153688539
+Is complex? False
+Done in 0.009075403213500977 seconds
+This is index 321
+<class 'TopoDS_Shell'>
+1394.2243128475106
+Is complex? False
+Done in 0.001970052719116211 seconds
+This is index 322
+<class 'TopoDS_Shell'>
+1461.1741851536167
+Is complex? False
+Done in 0.0015859603881835938 seconds
+This is index 323
+<class 'TopoDS_Shell'>
+1488.0817994610145
+Is complex? False
+Done in 0.0015981197357177734 seconds
+This is index 324
+<class 'TopoDS_Shell'>
+1550.9874822371069
+Is complex? False
+Done in 0.0016360282897949219 seconds
+This is index 325
+<class 'TopoDS_Shell'>
+1372.8301678901205
+Is complex? False
+Done in 0.0021691322326660156 seconds
+This is index 326
+<class 'TopoDS_Shell'>
+1370.533446736055
+Is complex? False
+Done in 0.0015599727630615234 seconds
+This is index 327
+<class 'TopoDS_Shell'>
+1368.2402359510563
+Is complex? False
+Done in 0.0014481544494628906 seconds
+This is index 328
+<class 'TopoDS_Shell'>
+1365.9505532052995
+Is complex? False
+Done in 0.001626729965209961 seconds
+This is index 329
+<class 'TopoDS_Shell'>
+1375.1303818341046
+Is complex? False
+Done in 0.0017247200012207031 seconds
+This is index 330
+<class 'TopoDS_Shell'>
+1377.4340710795723
+Is complex? False
+Done in 0.001646280288696289 seconds
+This is index 331
+<class 'TopoDS_Shell'>
+1379.741218228489
+Is complex? False
+Done in 0.0018911361694335938 seconds
+This is index 332
+<class 'TopoDS_Shell'>
+1382.0518059729002
+Is complex? False
+Done in 0.0017211437225341797 seconds
+This is index 333
+<class 'TopoDS_Shell'>
+1489.325516218852
+Is complex? False
+Done in 0.001547098159790039 seconds
+This is index 334
+<class 'TopoDS_Shell'>
+1491.7771485456296
+Is complex? False
+Done in 0.0015940666198730469 seconds
+This is index 335
+<class 'TopoDS_Shell'>
+1494.2315033776429
+Is complex? False
+Done in 0.002051115036010742 seconds
+This is index 336
+<class 'TopoDS_Shell'>
+1496.688567328151
+Is complex? False
+Done in 0.0015878677368164062 seconds
+This is index 337
+<class 'TopoDS_Shell'>
+1486.8766198573976
+Is complex? False
+Done in 0.0014820098876953125 seconds
+This is index 338
+<class 'TopoDS_Shell'>
+1484.430472995059
+Is complex? False
+Done in 0.0015168190002441406 seconds
+This is index 339
+<class 'TopoDS_Shell'>
+1481.9870892396912
+Is complex? False
+Done in 0.0015940666198730469 seconds
+This is index 340
+<class 'TopoDS_Shell'>
+1479.5464822735732
+Is complex? False
+Done in 0.0016109943389892578 seconds
+This is index 341
+<class 'TopoDS_Shell'>
+1509.0140604114858
+Is complex? False
+Done in 0.001873016357421875 seconds
+This is index 342
+<class 'TopoDS_Shell'>
+1511.4871020138414
+Is complex? False
+Done in 0.0018010139465332031 seconds
+This is index 343
+<class 'TopoDS_Shell'>
+1513.962761051233
+Is complex? False
+Done in 0.0017650127410888672 seconds
+This is index 344
+<class 'TopoDS_Shell'>
+1516.4410247108524
+Is complex? False
+Done in 0.002292156219482422 seconds
+This is index 345
+<class 'TopoDS_Shell'>
+1506.5436491274695
+Is complex? False
+Done in 0.0019829273223876953 seconds
+This is index 346
+<class 'TopoDS_Shell'>
+1504.0758811159487
+Is complex? False
+Done in 0.001934051513671875 seconds
+This is index 347
+<class 'TopoDS_Shell'>
+1501.610769402285
+Is complex? False
+Done in 0.0015869140625 seconds
+This is index 348
+<class 'TopoDS_Shell'>
+1499.1483270834055
+Is complex? False
+Done in 0.0015001296997070312 seconds
+This is index 349
+<class 'TopoDS_Shell'>
+1355.063829136785
+Is complex? False
+Done in 0.0015358924865722656 seconds
+This is index 350
+<class 'TopoDS_Shell'>
+1352.794875456115
+Is complex? False
+Done in 0.001650094985961914 seconds
+This is index 351
+<class 'TopoDS_Shell'>
+1350.529571972752
+Is complex? False
+Done in 0.0015020370483398438 seconds
+This is index 352
+<class 'TopoDS_Shell'>
+1348.2679370750313
+Is complex? False
+Done in 0.0014867782592773438 seconds
+This is index 353
+<class 'TopoDS_Shell'>
+1357.3364147197806
+Is complex? False
+Done in 0.0016078948974609375 seconds
+This is index 354
+<class 'TopoDS_Shell'>
+1359.6126140031831
+Is complex? False
+Done in 0.0019080638885498047 seconds
+This is index 355
+<class 'TopoDS_Shell'>
+1361.8924088778488
+Is complex? False
+Done in 0.0018553733825683594 seconds
+This is index 356
+<class 'TopoDS_Shell'>
+1364.1757813271083
+Is complex? False
+Done in 0.0015759468078613281 seconds
+This is index 357
+<class 'TopoDS_Shell'>
+1328.8888161551447
+Is complex? False
+Done in 0.045085906982421875 seconds
+This is index 358
+<class 'TopoDS_Shell'>
+1542.6356288665113
+Is complex? False
+Done in 0.03711676597595215 seconds
+This is index 359
+<class 'TopoDS_Shell'>
+1460.2028220304107
+Is complex? False
+Done in 0.007380008697509766 seconds
+This is index 360
+<class 'TopoDS_Shell'>
+1524.0380815055946
+Is complex? False
+Done in 0.008795976638793945 seconds
+This is index 361
+<class 'TopoDS_Shell'>
+1494.8291975808927
+Is complex? False
+Done in 0.007058858871459961 seconds
+This is index 362
+<class 'TopoDS_Shell'>
+1428.1952595362836
+Is complex? False
+Done in 0.008742094039916992 seconds
+This is index 363
+<class 'TopoDS_Shell'>
+1331.490406228926
+Is complex? False
+Done in 0.005856990814208984 seconds
+This is index 364
+<class 'TopoDS_Shell'>
+1555.0851185928477
+Is complex? False
+Done in 0.006310701370239258 seconds
+This is index 365
+<class 'TopoDS_Shell'>
+1214.2895924338434
+Is complex? False
+Done in 0.03469228744506836 seconds
+This is index 366
+<class 'TopoDS_Shell'>
+1200.3769117479237
+Is complex? False
+Done in 0.0042688846588134766 seconds
+This is index 367
+<class 'TopoDS_Shell'>
+1204.1780663192287
+Is complex? False
+Done in 0.003612041473388672 seconds
+This is index 368
+<class 'TopoDS_Shell'>
+1300.0311927228922
+Is complex? False
+Done in 0.003631114959716797 seconds
+This is index 369
+<class 'TopoDS_Shell'>
+1291.9993304945367
+Is complex? False
+Done in 0.004168987274169922 seconds
+This is index 370
+<class 'TopoDS_Shell'>
+1341.6163796143987
+Is complex? False
+Done in 0.002622842788696289 seconds
+This is index 371
+<class 'TopoDS_Shell'>
+1210.06593078948
+Is complex? False
+Done in 0.0024709701538085938 seconds
+This is index 372
+<class 'TopoDS_Shell'>
+1198.5726799857757
+Is complex? False
+Done in 0.0021822452545166016 seconds
+This is index 373
+<class 'TopoDS_Shell'>
+1331.259337019095
+Is complex? False
+Done in 0.0020661354064941406 seconds
+This is index 374
+<class 'TopoDS_Shell'>
+1423.6991797904939
+Is complex? False
+Done in 0.001936197280883789 seconds
+This is index 375
+<class 'TopoDS_Shell'>
+1300.4785278288482
+Is complex? False
+Done in 0.0023338794708251953 seconds
+This is index 376
+<class 'TopoDS_Shell'>
+1289.7911899585772
+Is complex? False
+Done in 0.0023038387298583984 seconds
+This is index 377
+<class 'TopoDS_Shell'>
+1413.943516158619
+Is complex? False
+Done in 0.002184152603149414 seconds
+This is index 378
+<class 'TopoDS_Shell'>
+1202.6550470491018
+Is complex? False
+Done in 0.010268926620483398 seconds
+This is index 379
+<class 'TopoDS_Shell'>
+1193.2019212067823
+Is complex? True
+Done in 0.9744391441345215 seconds
+This is index 380
+<class 'TopoDS_Shell'>
+1194.4098605780252
+Is complex? False
+Done in 0.02173900604248047 seconds
+This is index 381
+<class 'TopoDS_Shell'>
+1273.1681418464457
+Is complex? False
+Done in 0.0015621185302734375 seconds
+This is index 382
+<class 'TopoDS_Shell'>
+1570.9018416232552
+Is complex? False
+Done in 0.00732111930847168 seconds
+This is index 383
+<class 'TopoDS_Shell'>
+1529.986872265847
+Is complex? False
+Done in 0.005043983459472656 seconds
+This is index 384
+<class 'TopoDS_Shell'>
+1492.0055137382858
+Is complex? False
+Done in 0.19863080978393555 seconds
+This is index 385
+<class 'TopoDS_Shell'>
+1525.7156200866377
+Is complex? False
+Done in 0.0012242794036865234 seconds
+This is index 386
+<class 'TopoDS_Shell'>
+1508.5423627113607
+Is complex? False
+Done in 0.0013718605041503906 seconds
+This is index 387
+<class 'TopoDS_Shell'>
+1517.9030597381636
+Is complex? False
+Done in 0.0009999275207519531 seconds
+This is index 388
+<class 'TopoDS_Shell'>
+1492.3988577524478
+Is complex? False
+Done in 0.0009388923645019531 seconds
+This is index 389
+<class 'TopoDS_Shell'>
+1501.2517194743525
+Is complex? False
+Done in 0.0009388923645019531 seconds
+This is index 390
+<class 'TopoDS_Shell'>
+1477.3186214880448
+Is complex? False
+Done in 0.0010461807250976562 seconds
+This is index 391
+<class 'TopoDS_Shell'>
+1485.6463385080567
+Is complex? False
+Done in 0.0010030269622802734 seconds
+This is index 392
+<class 'TopoDS_Shell'>
+1463.3342833779764
+Is complex? False
+Done in 0.0009379386901855469 seconds
+This is index 393
+<class 'TopoDS_Shell'>
+1471.1198472487945
+Is complex? False
+Done in 0.0009479522705078125 seconds
+This is index 394
+<class 'TopoDS_Shell'>
+1450.4772997093105
+Is complex? False
+Done in 0.0010590553283691406 seconds
+This is index 395
+<class 'TopoDS_Shell'>
+1457.7041330910815
+Is complex? False
+Done in 0.0011870861053466797 seconds
+This is index 396
+<class 'TopoDS_Shell'>
+1438.777656468356
+Is complex? False
+Done in 0.0013201236724853516 seconds
+This is index 397
+<class 'TopoDS_Shell'>
+1445.4297506582827
+Is complex? False
+Done in 0.001165151596069336 seconds
+This is index 398
+<class 'TopoDS_Shell'>
+1428.2635665287794
+Is complex? False
+Done in 0.0013921260833740234 seconds
+This is index 399
+<class 'TopoDS_Shell'>
+1434.3256248148318
+Is complex? False
+Done in 0.001220703125 seconds
+This is index 400
+<class 'TopoDS_Shell'>
+1418.961167044123
+Is complex? False
+Done in 0.0009949207305908203 seconds
+This is index 401
+<class 'TopoDS_Shell'>
+1424.4187520022647
+Is complex? False
+Done in 0.00096893310546875 seconds
+This is index 402
+<class 'TopoDS_Shell'>
+1410.8942235866336
+Is complex? False
+Done in 0.0010502338409423828 seconds
+This is index 403
+<class 'TopoDS_Shell'>
+1415.7339060998786
+Is complex? False
+Done in 0.0011630058288574219 seconds
+This is index 404
+<class 'TopoDS_Shell'>
+1404.0838480244574
+Is complex? False
+Done in 0.0009903907775878906 seconds
+This is index 405
+<class 'TopoDS_Shell'>
+1408.2933554567153
+Is complex? False
+Done in 0.0010418891906738281 seconds
+This is index 406
+<class 'TopoDS_Shell'>
+1398.5482373234638
+Is complex? False
+Done in 0.0011110305786132812 seconds
+This is index 407
+<class 'TopoDS_Shell'>
+1402.116597940858
+Is complex? False
+Done in 0.001107931137084961 seconds
+This is index 408
+<class 'TopoDS_Shell'>
+1394.3024403570726
+Is complex? False
+Done in 0.0012717247009277344 seconds
+This is index 409
+<class 'TopoDS_Shell'>
+1397.2201207723926
+Is complex? False
+Done in 0.0015380382537841797 seconds
+This is index 410
+<class 'TopoDS_Shell'>
+1391.3581593830268
+Is complex? False
+Done in 0.000997781753540039 seconds
+This is index 411
+<class 'TopoDS_Shell'>
+1393.6171915355108
+Is complex? False
+Done in 0.0012140274047851562 seconds
+This is index 412
+<class 'TopoDS_Shell'>
+1389.7235920967514
+Is complex? False
+Done in 0.0014660358428955078 seconds
+This is index 413
+<class 'TopoDS_Shell'>
+1391.3176861119473
+Is complex? False
+Done in 0.0015289783477783203 seconds
+This is index 414
+<class 'TopoDS_Shell'>
+1535.5666636323385
+Is complex? False
+Done in 0.0014982223510742188 seconds
+This is index 415
+<class 'TopoDS_Shell'>
+1386.9774388004942
+Is complex? False
+Done in 0.0016040802001953125 seconds
+This is index 416
+<class 'TopoDS_Shell'>
+1318.2901962562946
+Is complex? False
+Done in 0.0009195804595947266 seconds
+This is index 417
+<class 'TopoDS_Shell'>
+1327.8197948516488
+Is complex? False
+Done in 0.0009112358093261719 seconds
+This is index 418
+<class 'TopoDS_Shell'>
+1296.7447058758935
+Is complex? False
+Done in 0.0010640621185302734 seconds
+This is index 419
+<class 'TopoDS_Shell'>
+1307.8729209620508
+Is complex? False
+Done in 0.0011050701141357422 seconds
+This is index 420
+<class 'TopoDS_Shell'>
+1277.852835447528
+Is complex? False
+Done in 0.0009679794311523438 seconds
+This is index 421
+<class 'TopoDS_Shell'>
+1288.1452876857752
+Is complex? False
+Done in 0.00096893310546875 seconds
+This is index 422
+<class 'TopoDS_Shell'>
+1274.5114737449103
+Is complex? False
+Done in 0.0010118484497070312 seconds
+This is index 423
+<class 'TopoDS_Shell'>
+1272.2730584960434
+Is complex? False
+Done in 0.0011839866638183594 seconds
+This is index 424
+<class 'TopoDS_Shell'>
+1285.5363233096457
+Is complex? False
+Done in 0.0010743141174316406 seconds
+This is index 425
+<class 'TopoDS_Shell'>
+1278.9193640131587
+Is complex? False
+Done in 0.0012900829315185547 seconds
+This is index 426
+<class 'TopoDS_Shell'>
+1300.6636342415477
+Is complex? False
+Done in 0.0013518333435058594 seconds
+This is index 427
+<class 'TopoDS_Shell'>
+1293.6308532185487
+Is complex? False
+Done in 0.0013899803161621094 seconds
+This is index 428
+<class 'TopoDS_Shell'>
+1292.1267058077133
+Is complex? False
+Done in 0.0010187625885009766 seconds
+This is index 429
+<class 'TopoDS_Shell'>
+1307.0640967509325
+Is complex? False
+Done in 0.0010690689086914062 seconds
+This is index 430
+<class 'TopoDS_Shell'>
+1263.2255171479794
+Is complex? False
+Done in 0.001135110855102539 seconds
+This is index 431
+<class 'TopoDS_Shell'>
+1276.4310407343323
+Is complex? False
+Done in 0.001112222671508789 seconds
+This is index 432
+<class 'TopoDS_Shell'>
+1272.6100630675046
+Is complex? False
+Done in 0.0011167526245117188 seconds
+This is index 433
+<class 'TopoDS_Shell'>
+1264.2118680169956
+Is complex? False
+Done in 0.0010840892791748047 seconds
+This is index 434
+<class 'TopoDS_Shell'>
+1284.91608524557
+Is complex? False
+Done in 0.0009601116180419922 seconds
+This is index 435
+<class 'TopoDS_Shell'>
+1277.7766351177052
+Is complex? False
+Done in 0.0012030601501464844 seconds
+This is index 436
+<class 'TopoDS_Shell'>
+1274.9932682684262
+Is complex? False
+Done in 0.0011610984802246094 seconds
+This is index 437
+<class 'TopoDS_Shell'>
+1263.1149237165025
+Is complex? False
+Done in 0.0011930465698242188 seconds
+This is index 438
+<class 'TopoDS_Shell'>
+1269.7555715761328
+Is complex? False
+Done in 0.0009410381317138672 seconds
+This is index 439
+<class 'TopoDS_Shell'>
+1269.7908211970898
+Is complex? False
+Done in 0.0009629726409912109 seconds
+This is index 440
+<class 'TopoDS_Shell'>
+1261.5940493744456
+Is complex? False
+Done in 0.0010030269622802734 seconds
+This is index 441
+<class 'TopoDS_Shell'>
+1288.3335705365853
+Is complex? False
+Done in 0.002010822296142578 seconds
+This is index 442
+<class 'TopoDS_Shell'>
+1282.2561049454596
+Is complex? False
+Done in 0.0010509490966796875 seconds
+This is index 443
+<class 'TopoDS_Shell'>
+1309.2823386470536
+Is complex? False
+Done in 0.0009667873382568359 seconds
+This is index 444
+<class 'TopoDS_Shell'>
+1297.1439454550368
+Is complex? False
+Done in 0.0009217262268066406 seconds
+This is index 445
+<class 'TopoDS_Shell'>
+1283.1017163606505
+Is complex? False
+Done in 0.0009579658508300781 seconds
+This is index 446
+<class 'TopoDS_Shell'>
+1334.0416628441826
+Is complex? False
+Done in 0.0037059783935546875 seconds
+This is index 447
+<class 'TopoDS_Shell'>
+1346.6243502780314
+Is complex? False
+Done in 0.0020890235900878906 seconds
+This is index 448
+<class 'TopoDS_Shell'>
+1409.4675843743153
+Is complex? False
+Done in 0.002439260482788086 seconds
+This is index 449
+<class 'TopoDS_Shell'>
+1269.761197360955
+Is complex? False
+Done in 0.0024309158325195312 seconds
+This is index 450
+<class 'TopoDS_Shell'>
+1461.3613943836044
+Is complex? False
+Done in 0.0030679702758789062 seconds
+This is index 451
+<class 'TopoDS_Shell'>
+1413.5130444662946
+Is complex? False
+Done in 0.0015292167663574219 seconds
+This is index 452
+<class 'TopoDS_Shell'>
+1549.728073267433
+Is complex? False
+Done in 0.0013971328735351562 seconds
+This is index 453
+<class 'TopoDS_Shell'>
+1404.8498958306866
+Is complex? False
+Done in 0.0011913776397705078 seconds
+This is index 454
+<class 'TopoDS_Shell'>
+1542.5949645509165
+Is complex? False
+Done in 0.001127004623413086 seconds
+This is index 455
+<class 'TopoDS_Shell'>
+1314.122441848528
+Is complex? False
+Done in 0.004174232482910156 seconds
+This is index 456
+<class 'TopoDS_Shell'>
+1269.9282424198004
+Is complex? False
+Done in 0.00446009635925293 seconds
+This is index 457
+<class 'TopoDS_Shell'>
+1291.6569588311136
+Is complex? False
+Done in 0.007022857666015625 seconds
+This is index 458
+<class 'TopoDS_Shell'>
+1343.6680290166935
+Is complex? False
+Done in 0.002123117446899414 seconds
+This is index 459
+<class 'TopoDS_Shell'>
+1316.5930531335146
+Is complex? False
+Done in 0.0013098716735839844 seconds
+This is index 460
+<class 'TopoDS_Shell'>
+1294.362368448603
+Is complex? False
+Done in 0.0012919902801513672 seconds
+This is index 461
+<class 'TopoDS_Shell'>
+1323.7489101628641
+Is complex? False
+Done in 0.0018329620361328125 seconds
+This is index 462
+<class 'TopoDS_Shell'>
+1301.6404459196167
+Is complex? False
+Done in 0.0014657974243164062 seconds
+This is index 463
+<class 'TopoDS_Shell'>
+1291.3867144989872
+Is complex? False
+Done in 0.06268715858459473 seconds
+This is index 464
+<class 'TopoDS_Shell'>
+1361.7738255939653
+Is complex? False
+Done in 0.008629083633422852 seconds
+This is index 465
+<class 'TopoDS_Shell'>
+1333.853810645962
+Is complex? False
+Done in 0.012064933776855469 seconds
+This is index 466
+<class 'TopoDS_Shell'>
+1423.4246581530235
+Is complex? False
+Done in 0.001069784164428711 seconds
+This is index 467
+<class 'TopoDS_Shell'>
+1502.6603961276667
+Is complex? False
+Done in 0.002897977828979492 seconds
+This is index 468
+<class 'TopoDS_Shell'>
+1292.4995418611295
+Is complex? False
+Done in 0.005776166915893555 seconds
+This is index 469
+<class 'TopoDS_Shell'>
+1292.4995418611295
+Is complex? False
+Done in 0.007398128509521484 seconds
+This is index 470
+<class 'TopoDS_Shell'>
+1533.6270664769236
+Is complex? False
+Done in 0.0010099411010742188 seconds
+This is index 471
+<class 'TopoDS_Shell'>
+1509.8527787319335
+Is complex? False
+Done in 0.0013968944549560547 seconds
+This is index 472
+<class 'TopoDS_Shell'>
+2299.0423892377034
+Is complex? False
+Done in 0.04228401184082031 seconds
+This is index 473
+<class 'TopoDS_Shell'>
+1993.759272790118
+Is complex? False
+Done in 0.004012107849121094 seconds
+This is index 474
+<class 'TopoDS_Shell'>
+1870.9419224946193
+Is complex? True
+Done in 0.0502169132232666 seconds
+This is index 475
+<class 'TopoDS_Shell'>
+1997.494479665996
+Is complex? False
+Done in 0.002778768539428711 seconds
+This is index 476
+<class 'TopoDS_Shell'>
+2088.45676807029
+Is complex? False
+Done in 0.002396821975708008 seconds
+This is index 477
+<class 'TopoDS_Shell'>
+2164.0105769200354
+Is complex? False
+Done in 0.002312183380126953 seconds
+This is index 478
+<class 'TopoDS_Shell'>
+2152.292269820647
+Is complex? False
+Done in 0.0397799015045166 seconds
+This is index 479
+<class 'TopoDS_Shell'>
+2064.1079331897336
+Is complex? False
+Done in 0.0024919509887695312 seconds
+This is index 480
+<class 'TopoDS_Shell'>
+1984.8067653562264
+Is complex? False
+Done in 0.0027618408203125 seconds
+This is index 481
+<class 'TopoDS_Shell'>
+2075.428017634868
+Is complex? False
+Done in 0.008825063705444336 seconds
+This is index 482
+<class 'TopoDS_Shell'>
+2062.9593787827707
+Is complex? False
+Done in 0.010042905807495117 seconds
+This is index 483
+<class 'TopoDS_Shell'>
+2119.1169071023955
+Is complex? False
+Done in 0.0023889541625976562 seconds
+This is index 484
+<class 'TopoDS_Shell'>
+2075.879050905427
+Is complex? False
+Done in 0.008356094360351562 seconds
+This is index 485
+<class 'TopoDS_Shell'>
+2114.109967658697
+Is complex? False
+Done in 0.009684085845947266 seconds
+This is index 486
+<class 'TopoDS_Shell'>
+2096.874468342044
+Is complex? False
+Done in 0.009049177169799805 seconds
+This is index 487
+<class 'TopoDS_Shell'>
+2213.2284537969904
+Is complex? False
+Done in 0.0029141902923583984 seconds
+This is index 488
+<class 'TopoDS_Shell'>
+2115.902084454774
+Is complex? False
+Done in 0.0028650760650634766 seconds
+This is index 489
+<class 'TopoDS_Shell'>
+2085.8271378288423
+Is complex? False
+Done in 0.008771181106567383 seconds
+This is index 490
+<class 'TopoDS_Shell'>
+2076.2105504333226
+Is complex? False
+Done in 0.010365962982177734 seconds
+This is index 491
+<class 'TopoDS_Shell'>
+2153.3838177819175
+Is complex? False
+Done in 0.0023491382598876953 seconds
+This is index 492
+<class 'TopoDS_Shell'>
+2090.3399660150717
+Is complex? False
+Done in 0.00244903564453125 seconds
+This is index 493
+<class 'TopoDS_Shell'>
+1999.5242848336884
+Is complex? False
+Done in 0.01013803482055664 seconds
+This is index 494
+<class 'TopoDS_Shell'>
+1954.8167351895997
+Is complex? False
+Done in 0.009891748428344727 seconds
+This is index 495
+<class 'TopoDS_Shell'>
+1992.08464597542
+Is complex? False
+Done in 0.0029058456420898438 seconds
+This is index 496
+<class 'TopoDS_Shell'>
+2023.4382070781373
+Is complex? False
+Done in 0.002796173095703125 seconds
+This is index 497
+<class 'TopoDS_Shell'>
+1887.7440068382825
+Is complex? False
+Done in 0.008240699768066406 seconds
+This is index 498
+<class 'TopoDS_Shell'>
+1838.3338207248387
+Is complex? False
+Done in 0.009985208511352539 seconds
+This is index 499
+<class 'TopoDS_Shell'>
+1887.1286192203963
+Is complex? False
+Done in 0.0023679733276367188 seconds
+This is index 500
+<class 'TopoDS_Shell'>
+1981.5731633053817
+Is complex? False
+Done in 0.0023190975189208984 seconds
+This is index 501
+<class 'TopoDS_Shell'>
+1960.8636382082725
+Is complex? False
+Done in 0.008899927139282227 seconds
+This is index 502
+<class 'TopoDS_Shell'>
+1917.1735045693802
+Is complex? False
+Done in 0.00899815559387207 seconds
+This is index 503
+<class 'TopoDS_Shell'>
+1955.030359906396
+Is complex? False
+Done in 0.0025658607482910156 seconds
+This is index 504
+<class 'TopoDS_Shell'>
+2008.5019466992908
+Is complex? False
+Done in 0.003056764602661133 seconds
+This is index 505
+<class 'TopoDS_Shell'>
+1812.0291054370039
+Is complex? False
+Done in 0.009449005126953125 seconds
+This is index 506
+<class 'TopoDS_Shell'>
+1820.0000878567819
+Is complex? False
+Done in 0.0007679462432861328 seconds
+This is index 507
+<class 'TopoDS_Shell'>
+1837.9725259096094
+Is complex? False
+Done in 0.0013172626495361328 seconds
+This is index 508
+<class 'TopoDS_Shell'>
+1814.4207361460424
+Is complex? False
+Done in 0.0033111572265625 seconds
+This is index 509
+<class 'TopoDS_Shell'>
+1817.417499407101
+Is complex? False
+Done in 0.0022068023681640625 seconds
+This is index 510
+<class 'TopoDS_Shell'>
+1834.7120361317777
+Is complex? False
+Done in 0.00115203857421875 seconds
+This is index 511
+<class 'TopoDS_Shell'>
+1880.2862893596653
+Is complex? False
+Done in 0.000476837158203125 seconds
+This is index 512
+<class 'TopoDS_Shell'>
+2403.0599512586673
+Is complex? False
+Done in 0.002696990966796875 seconds
+This is index 513
+<class 'TopoDS_Shell'>
+2210.000000000006
+Is complex? True
+Done in 0.00820779800415039 seconds
+This is index 514
+<class 'TopoDS_Shell'>
+3018.695283828556
+Is complex? False
+Done in 0.003158092498779297 seconds
+This is index 515
+<class 'TopoDS_Shell'>
+3083.5645386660185
+Is complex? False
+Done in 0.0027120113372802734 seconds
+This is index 516
+<class 'TopoDS_Shell'>
+3256.906125647868
+Is complex? False
+Done in 0.0020568370819091797 seconds
+This is index 517
+<class 'TopoDS_Shell'>
+3055.2341581754717
+Is complex? False
+Done in 0.001953125 seconds
+This is index 518
+<class 'TopoDS_Shell'>
+3230.092540097316
+Is complex? False
+Done in 0.001924276351928711 seconds
+This is index 519
+<class 'TopoDS_Shell'>
+3027.422350431644
+Is complex? False
+Done in 0.002176046371459961 seconds
+This is index 520
+<class 'TopoDS_Shell'>
+3203.7950897482738
+Is complex? False
+Done in 0.0024399757385253906 seconds
+This is index 521
+<class 'TopoDS_Shell'>
+2555.3695176723936
+Is complex? False
+Done in 469.07510900497437 seconds
+This is index 521
+<class 'TopoDS_Shell'>
+Is complex? False
+This is index 522
+<class 'TopoDS_Shell'>
+2650.6864025745713
+Is complex? False
+Done in 0.0006442070007324219 seconds
+This is index 523
+<class 'TopoDS_Shell'>
+2073.9805131247385
+Is complex? False
+Done in 0.003057241439819336 seconds
+This is index 524
+<class 'TopoDS_Shell'>
+2324.0810848087635
+Is complex? False
+Done in 0.008437871932983398 seconds
+This is index 525
+<class 'TopoDS_Shell'>
+2494.215705768798
+Is complex? False
+Done in 0.003326892852783203 seconds
+This is index 526
+<class 'TopoDS_Shell'>
+2126.0369689065274
+Is complex? False
+Done in 0.00818014144897461 seconds
+This is index 527
+<class 'TopoDS_Shell'>
+2248.4863410795665
+Is complex? False
+Done in 0.0032999515533447266 seconds
+This is index 528
+<class 'TopoDS_Shell'>
+2667.8864168901505
+Is complex? False
+Done in 0.00492405891418457 seconds
+This is index 529
+<class 'TopoDS_Shell'>
+2627.0689899984377
+Is complex? False
+Done in 0.005026102066040039 seconds
+This is index 530
+<class 'TopoDS_Shell'>
+2473.982477524871
+Is complex? False
+Done in 0.005194187164306641 seconds
+This is index 531
+<class 'TopoDS_Shell'>
+2743.897316976041
+Is complex? False
+Done in 0.005168914794921875 seconds
+This is index 532
+<class 'TopoDS_Shell'>
+2695.22754869553
+Is complex? False
+Done in 0.0035016536712646484 seconds
+This is index 533
+<class 'TopoDS_Shell'>
+2059.829074149098
+Is complex? False
+Done in 0.004463911056518555 seconds
+This is index 534
+<class 'TopoDS_Shell'>
+3022.8523588453263
+Is complex? False
+Done in 0.00627589225769043 seconds
+This is index 535
+<class 'TopoDS_Shell'>
+3323.51905217618
+Is complex? False
+Done in 0.004935026168823242 seconds
+This is index 536
+<class 'TopoDS_Shell'>
+3167.6150314799274
+Is complex? False
+Done in 0.005586862564086914 seconds
+This is index 537
+<class 'TopoDS_Shell'>
+3139.28503805335
+Is complex? False
+Done in 0.0057752132415771484 seconds
+This is index 538
+<class 'TopoDS_Shell'>
+2079.696035611271
+Is complex? False
+Done in 0.005071163177490234 seconds
+This is index 539
+<class 'TopoDS_Shell'>
+2010.0065191128735
+Is complex? False
+Done in 0.0024979114532470703 seconds
+This is index 540
+<class 'TopoDS_Shell'>
+1900.3252239616268
+Is complex? False
+Done in 0.0017848014831542969 seconds
+This is index 541
+<class 'TopoDS_Shell'>
+1990.6953029461868
+Is complex? False
+Done in 0.0021848678588867188 seconds
+This is index 542
+<class 'TopoDS_Shell'>
+2046.5418958805901
+Is complex? False
+Done in 0.0026319026947021484 seconds
+This is index 543
+<class 'TopoDS_Shell'>
+2007.1405305684934
+Is complex? False
+Done in 0.002187013626098633 seconds
+This is index 544
+<class 'TopoDS_Shell'>
+1881.172028780811
+Is complex? False
+Done in 0.005916118621826172 seconds
+This is index 545
+<class 'TopoDS_Shell'>
+1851.5460287353874
+Is complex? False
+Done in 0.002946138381958008 seconds
+This is index 546
+<class 'TopoDS_Shell'>
+1893.6840901396235
+Is complex? False
+Done in 0.0037419795989990234 seconds
+This is index 547
+<class 'TopoDS_Shell'>
+1853.619898503677
+Is complex? False
+Done in 0.003353118896484375 seconds
+This is index 548
+<class 'TopoDS_Shell'>
+1895.720922495802
+Is complex? False
+Done in 0.002780914306640625 seconds
+This is index 549
+<class 'TopoDS_Shell'>
+1857.0150895073382
+Is complex? False
+Done in 0.002932310104370117 seconds
+This is index 550
+<class 'TopoDS_Shell'>
+1899.054886713046
+Is complex? False
+Done in 0.002747774124145508 seconds
+This is index 551
+<class 'TopoDS_Shell'>
+1861.7262173523725
+Is complex? False
+Done in 0.0032300949096679688 seconds
+This is index 552
+<class 'TopoDS_Shell'>
+1903.6800096060556
+Is complex? False
+Done in 0.003409862518310547 seconds
+This is index 553
+<class 'TopoDS_Shell'>
+1864.3575588381718
+Is complex? False
+Done in 0.0028221607208251953 seconds
+This is index 554
+<class 'TopoDS_Shell'>
+1878.4127907574793
+Is complex? False
+Done in 0.002638101577758789 seconds
+This is index 555
+<class 'TopoDS_Shell'>
+1874.4844973384197
+Is complex? False
+Done in 0.002805948257446289 seconds
+This is index 556
+<class 'TopoDS_Shell'>
+1888.4779696991495
+Is complex? False
+Done in 0.002846956253051758 seconds
+This is index 557
+<class 'TopoDS_Shell'>
+1795.5666876795176
+Is complex? False
+Done in 0.0021147727966308594 seconds
+This is index 558
+<class 'TopoDS_Shell'>
+1890.523411057661
+Is complex? False
+Done in 0.015276908874511719 seconds
+This is index 559
+<class 'TopoDS_Shell'>
+1891.1149948731556
+Is complex? False
+Done in 0.11331725120544434 seconds
+This is index 560
+<class 'TopoDS_Shell'>
+1903.052576024631
+Is complex? False
+Done in 0.006451129913330078 seconds
+This is index 561
+<class 'TopoDS_Shell'>
+1873.0159511248773
+Is complex? False
+Done in 0.06262397766113281 seconds
+This is index 562
+<class 'TopoDS_Shell'>
+1871.9843650110445
+Is complex? False
+Done in 0.005734920501708984 seconds
+This is index 563
+<class 'TopoDS_Shell'>
+2586.4526476762017
+Is complex? False
+Done in 0.19449400901794434 seconds
+This is index 564
+<class 'TopoDS_Shell'>
+2670.14220568977
+Is complex? False
+Done in 0.0006771087646484375 seconds
+This is index 565
+<class 'TopoDS_Shell'>
+2700.737730852822
+Is complex? False
+Done in 0.0007090568542480469 seconds
+This is index 566
+<class 'TopoDS_Shell'>
+2731.7247041097953
+Is complex? False
+Done in 0.0003750324249267578 seconds
+This is index 567
+<class 'TopoDS_Shell'>
+2675.9725415211324
+Is complex? False
+Done in 0.00037097930908203125 seconds
+This is index 568
+<class 'TopoDS_Shell'>
+2737.4239383934923
+Is complex? False
+Done in 0.0003771781921386719 seconds
+This is index 569
+<class 'TopoDS_Compound'>
+1152.1361039328065
+Is complex? False
+Done in 2.978954315185547 seconds
+####### 3D rendering pipe initialisation #####
+Display3d class initialization starting ...
+Aspect_DisplayConnection created.
+OpenGl_GraphicDriver created.
+V3d_Viewer created.
+AIS_InteractiveContext created.
+V3d_View created
+Graphic3d_Camera created
+Graphic3d_StructureManager created
+Cocoa window created.
+Display3d class successfully initialized.
+#########################################
+OpenGl information:
+  GLvendor: ATI Technologies Inc.
+  GLdevice: AMD Radeon R9 M395 OpenGL Engine
+  GLversion: 2.1 ATI-4.8.101
+  GLSLversion: 1.20
+  Max texture size: 16384
+  Max FBO dump size: 16384x16384
+  Max combined texture units: 16
+  Max MSAA samples: 0
+  Viewport: 1023x767
+  Window buffer: RGB8 ALPHA8 DEPTH24 STENCIL8
+  ResolutionRatio: 1
+  FBO buffer: GL_SRGB8_ALPHA8 GL_DEPTH24_STENCIL8

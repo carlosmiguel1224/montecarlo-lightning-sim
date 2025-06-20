@@ -1,0 +1,29 @@
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE projects (
+    simulation_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    timestamp TEXT DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE collisions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    center_on_contact TEXT,
+    surface_on_contact TEXT,
+    peakcurrent REAL,
+    strike TEXT,
+    structurestruck TEXT,
+    count INTEGER,
+    simulation_id INTEGER,
+    FOREIGN KEY (simulation_id) REFERENCES projects(simulation_id) ON DELETE CASCADE
+);
+CREATE TABLE shape_metadata (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    shape_id TEXT,
+    simulation_id INTEGER,
+    name TEXT,
+    coords TEXT,
+    count INTEGER,
+    collectarea REAL,
+    percentofstrikes REAL,
+    kdtreepath TEXT,
+    FOREIGN KEY (simulation_id) REFERENCES projects(simulation_id) ON DELETE CASCADE
+);
