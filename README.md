@@ -30,16 +30,7 @@ The simulation loads a **STEP file** (or other 3D mesh), samples millions of sur
 ![simulation-preview](https://via.placeholder.com/600x300?text=Simulation+Preview)
 
 > A lightning strike density map rendered after simulating over a complex geometry.
-
----
-
-## 🚫 Why Full Source Code Is Not Included
-
-To protect the intellectual property and future commercialization potential of this software, the **core simulation logic and geometry modules have been intentionally excluded** from this repository.
-
-This public repo includes:
-- A redacted `main.py` file showing overall structure and workflow
-- A detailed README describing the capabilities and design approach
+> Coming Soon
 
 ---
 
